@@ -2,6 +2,7 @@
 
 ## requirements.txt
 Instalacia balikov
+
 pip install -r requirements.txt
 
 ## videoToImage.py
