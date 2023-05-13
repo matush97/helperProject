@@ -1,9 +1,9 @@
 # helperProject
 
 ## requirements.txt
-Instalacia balikov
+Inštalácia balikov
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## videoToImage.py
 Používa sa na vytváranie snímok z videa. Video je vstupny parameter. Výstupom sú snímky z videozáznamu sa uložené do priečinka.
